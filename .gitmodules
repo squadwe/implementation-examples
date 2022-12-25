@@ -1,3 +1,12 @@
 [submodule "squadwe-botpress-bridge-golang"]
 	path = squadwe-botpress-bridge-golang
-	url = ./squadwe-botpress-bridge-golang
+	url = https://github.com/squadwe/squadwe-botpress-bridge-golang/
+[submodule "squadwe-botpress-bridge-rails"]
+	path = squadwe-botpress-bridge-rails
+	url = https://github.com/squadwe/squadwe-botpress-bridge-rails/
+[submodule "rasa-agent-bot-demo"]
+	path = rasa-agent-bot-demo
+	url = https://github.com/squadwe/rasa-agent-bot-demo/
+[submodule "google-cloud-functions-demo"]
+	path = google-cloud-functions-demo
+	url = https://github.com/squadwe/google-cloud-functions-demo/
