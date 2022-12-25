@@ -10,3 +10,6 @@
 [submodule "google-cloud-functions-demo"]
 	path = google-cloud-functions-demo
 	url = https://github.com/squadwe/google-cloud-functions-demo/
+[submodule "client-api-demo"]
+	path = client-api-demo
+	url = https://github.com/squadwe/client-api-demo
