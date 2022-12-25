@@ -1,0 +1,3 @@
+[submodule "squadwe-botpress-bridge-golang"]
+	path = squadwe-botpress-bridge-golang
+	url = ./squadwe-botpress-bridge-golang
